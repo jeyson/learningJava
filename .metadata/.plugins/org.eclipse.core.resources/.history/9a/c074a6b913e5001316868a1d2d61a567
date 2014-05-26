@@ -1,0 +1,10 @@
+package controle;
+
+public class pessoa {
+	
+	String	nome;
+	int 	idade;
+	
+	Carro carro;
+
+}

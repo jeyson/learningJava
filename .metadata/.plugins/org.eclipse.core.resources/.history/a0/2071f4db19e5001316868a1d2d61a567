@@ -1,0 +1,13 @@
+package controle;
+
+public class Funcionario {
+	
+	public String matricula;
+	
+	
+	Public void trabalhar(){
+		
+		System.out.println("trabalhando.....");
+	}
+
+}

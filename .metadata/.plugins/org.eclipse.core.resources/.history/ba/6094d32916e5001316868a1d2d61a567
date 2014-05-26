@@ -1,0 +1,14 @@
+package controle;
+
+public class Carro {
+	
+	String nome;
+	int 	ano;
+
+	
+	public void andar() {
+		
+		System.out.println("O "+this.nome+" andando");
+		
+	}
+}
