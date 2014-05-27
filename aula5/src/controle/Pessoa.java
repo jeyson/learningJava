@@ -1,6 +1,6 @@
 package controle;
 
-public class Pessoa extends Manifero {
+public abstract class Pessoa extends Manifero {
 	
 	public String	nome;
 	public int 		idade;

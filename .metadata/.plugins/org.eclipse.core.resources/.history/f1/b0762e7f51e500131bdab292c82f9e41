@@ -1,0 +1,15 @@
+package controle;
+
+public class Jogador {
+	
+	public static void main(String[] args) {
+			
+	}
+	
+	public void jogar(int direita, int esquerda, Controle c1) {
+		
+		
+	}
+	
+
+}

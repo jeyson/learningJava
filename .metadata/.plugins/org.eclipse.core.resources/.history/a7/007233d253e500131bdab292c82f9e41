@@ -1,0 +1,25 @@
+package controle;
+
+public class Jogador {
+	
+	public static void main(String[] args) {
+		
+		Jogador j1 = new Jogador();
+		Controle c1 = new Controle();
+		
+		j1.jogar(3, 5, c1);
+			
+	}
+	
+	public void jogar(int direita, int esquerda, Controle c1) {
+		
+		c1.setDireita(direita);
+		c1.setEsquerda(esquerda);
+		
+		System.out.println("Direita:"+ c1.direita+ "\nEsquerda:"+c1.esquerda);
+		
+		
+	}
+	
+
+}

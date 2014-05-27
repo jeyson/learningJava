@@ -13,8 +13,13 @@ public class Start {
 		
 		f1.andar();
 		f1.trabalhar();
-
 		
+		Cliente c1 	= 	new Cliente();
+		c1.cpf 		= 	"1111111111";
+		c1.idade 	= 	40;
+		c1.nome		= 	"camila";
+		c1.numero	= 	43453;
+				
 		
 	}
 

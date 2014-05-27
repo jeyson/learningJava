@@ -1,0 +1,8 @@
+package controle;
+
+public class Controle {
+	
+	public int direita;
+	public int esquerda;
+
+}

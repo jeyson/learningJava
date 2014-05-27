@@ -1,6 +1,6 @@
 package controle;
 
-public class Manifero {
+public abstract class Manifero {
 	
 	public String peso;
 
